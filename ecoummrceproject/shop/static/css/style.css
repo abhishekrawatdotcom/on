@@ -1,0 +1,32 @@
+     .col-md-3{
+    display: inline-block;
+    margin-left: 4px;
+            background-color: red;
+
+
+}
+
+.col-md-3 img{
+    width: 100%;
+    height: auto;
+}
+
+body .carousel-indicators .active{
+    background-color: blue;
+}
+
+body .carousel-indicators{
+    bottom: 0;
+}
+
+body .carousel-control-prev-icon,
+body .carousel-control-next-icon{
+    background-color: blue;
+}
+
+body .no-padding{
+    padding-left: 0;
+    padding-right: 0;
+
+
+}
